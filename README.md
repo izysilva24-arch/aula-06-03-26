@@ -1,2 +1,2 @@
 # aula-06-03-26
-trabalhando com git
+## introduçao aos comandos git 
